@@ -115,3 +115,120 @@ C:\VCS\Github\SLC-AS-ChatOps\DataMiner Solutions\PTP\PTP Info\PTP Info_1\obj\Deb
 C:\VCS\Github\SLC-AS-ChatOps\DataMiner Solutions\PTP\PTP Info\PTP Info_1\obj\Debug\PTP Info_1.csproj.CopyComplete
 C:\VCS\Github\SLC-AS-ChatOps\DataMiner Solutions\PTP\PTP Info\PTP Info_1\obj\Debug\PTP Info_1.dll
 C:\VCS\Github\SLC-AS-ChatOps\DataMiner Solutions\PTP\PTP Info\PTP Info_1\obj\Debug\PTP Info_1.pdb
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\PTP Info_1.xml
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\PTP Info_1.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\PTP Info_1.pdb
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\AdaptiveCards.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\Newtonsoft.Json.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\protobuf-net.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\Skyline.DataMiner.Storage.Types.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLAnalyticsTypes.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLLoggerUtil.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLManagedAutomation.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLNetTypes.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLProtoBufLibrary.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLC.Lib.Automation.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLC.Lib.Common.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\netstandard.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.AppContext.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Collections.Concurrent.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Collections.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Collections.NonGeneric.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Collections.Specialized.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.ComponentModel.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Console.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Data.Common.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.Debug.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.Process.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.Tools.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Drawing.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Dynamic.Runtime.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Globalization.Calendars.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Globalization.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Globalization.Extensions.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.Compression.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.FileSystem.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.Pipes.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Linq.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Linq.Expressions.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Linq.Parallel.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Linq.Queryable.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.Http.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.NameResolution.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.NetworkInformation.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.Ping.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.Requests.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.Security.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.Sockets.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Net.WebSockets.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.ObjectModel.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Reflection.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Reflection.Extensions.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Reflection.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Resources.Reader.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Resources.ResourceManager.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Resources.Writer.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Extensions.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Handles.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.InteropServices.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Numerics.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Claims.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.Principal.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Security.SecureString.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Text.Encoding.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Text.RegularExpressions.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.Overlapped.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.Tasks.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.Thread.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.ThreadPool.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Threading.Timer.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.ValueTuple.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Xml.XDocument.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Xml.XmlDocument.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Xml.XPath.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.csproj.AssemblyReference.cache
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.csproj.CoreCompileInputs.cache
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.csproj.CopyComplete
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.pdb
