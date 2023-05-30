@@ -129,8 +129,6 @@ C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLLoggerUtil.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLManagedAutomation.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLNetTypes.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLProtoBufLibrary.dll
-C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLC.Lib.Automation.dll
-C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\SLC.Lib.Common.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\netstandard.dll
@@ -232,3 +230,5 @@ C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.csproj.CoreComp
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.csproj.CopyComplete
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.dll
 C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\obj\Debug\PTP Info_1.pdb
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\Skyline.DataMiner.Core.DataMinerSystem.Automation.dll
+C:\git\github\SLC-AS-ChatOps-PTP\PTP Info_1\bin\Debug\Skyline.DataMiner.Core.DataMinerSystem.Common.dll

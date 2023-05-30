@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HmQjbR3ozpP8/EnuI+QtTytx3PjDdRSWiqQnM09RylPHO+DbZXKmUimraEDVJw5K/D2Sw4cZ6/hAl+FVrDKWDw==",
+  "dgSpecHash": "2oPft2N8gWLdmo64vLpzP1+kvdrkznlRtrs+rYIHRasNsciMi/CdJRHhnEw6hbHUgD8CaKsVDS0UXSGhRvQAvw==",
   "success": true,
   "projectFilePath": "C:\\git\\github\\SLC-AS-ChatOps-PTP\\PTP Info_1\\PTP Info_1.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\Joey\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\sharpziplib\\1.3.2\\sharpziplib.1.3.2.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.core.dataminersystem.automation\\1.1.0.5\\skyline.dataminer.core.dataminersystem.automation.1.1.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.core.dataminersystem.common\\1.1.0.5\\skyline.dataminer.core.dataminersystem.common.1.1.0.5.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.dev.automation\\10.2.8\\skyline.dataminer.dev.automation.10.2.8.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.dev.common\\10.2.8\\skyline.dataminer.dev.common.10.2.8.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.protobufnet\\10.2.8\\skyline.dataminer.files.protobufnet.10.2.8.nupkg.sha512",
@@ -17,8 +19,6 @@
     "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slmanagedautomation\\10.2.8\\skyline.dataminer.files.slmanagedautomation.10.2.8.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slnettypes\\10.2.8\\skyline.dataminer.files.slnettypes.10.2.8.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slprotobuflibrary\\10.2.8\\skyline.dataminer.files.slprotobuflibrary.10.2.8.nupkg.sha512",
-    "C:\\Users\\Joey\\.nuget\\packages\\slc.lib.automation\\1.4.0.1\\slc.lib.automation.1.4.0.1.nupkg.sha512",
-    "C:\\Users\\Joey\\.nuget\\packages\\slc.lib.common\\1.4.0.1\\slc.lib.common.1.4.0.1.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
     "C:\\Users\\Joey\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
@@ -32,6 +32,19 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devcore3:81/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Newtonsoft.Json from 13.0.2 to 11.0.2. Reference the package directly from the project to select a different version. \r\n PTP Info_1 -> Skyline.DataMiner.Core.DataMinerSystem.Automation 1.1.0.5 -> Skyline.DataMiner.Core.DataMinerSystem.Common 1.1.0.5 -> Newtonsoft.Json (>= 13.0.2) \r\n PTP Info_1 -> Newtonsoft.Json (>= 11.0.2)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2",
+        ".NETFramework,Version=v4.6.2/win",
+        ".NETFramework,Version=v4.6.2/win-x64",
+        ".NETFramework,Version=v4.6.2/win-x86"
+      ]
     }
   ]
 }
