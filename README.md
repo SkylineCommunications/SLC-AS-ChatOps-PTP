@@ -27,15 +27,15 @@ The memory file needs to be named "ChatOps_PTP_Info_Options" and requires the fo
 
 ### Show GrandMaster
 
-![Grandmaster info request](/Documentation/Grandmaster Info Request.png)
-![Grandmaster info response](/Documentation/Grandmaster Info Response.png)
+![Grandmaster info request](/Documentation/Grandmaster_Info_Request.png)
+![Grandmaster info response](/Documentation/Grandmaster_Info_Response.png)
 
 ### Get Node Status Overview
 
-![Node status overview request](/Documentation/Get Node Status Overview Request.png)
-![Node status overview response](/Documentation/Get Node Status Overview Response.png)
+![Node status overview request](/Documentation/Get_Node_Status_Overview_Request.png)
+![Node status overview response](/Documentation/Get_Node_Status_Overview_Response.png)
 
 ### Get Alarms
 
-![Alarms request](/Documentation/Get Alarms Request.png)
-![Alarms response](/Documentation/Get Alarms Response.png)
+![Alarms request](/Documentation/Get_Alarms_Request.png)
+![Alarms response](/Documentation/Get_Alarms_Response.png)
